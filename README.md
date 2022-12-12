@@ -13,7 +13,7 @@ In order to test the routes you will need to run them through Insomnia to check 
 ![Categories PUT](/screenshots/Categories(Put).PNG)
 ![Categories DELETE](/screenshots/Categories(delete).PNG)
 
- - Video link to how to use this program.
+ https://drive.google.com/file/d/1j8wSlf03ldIlBEJ2NZhJRQa6cUZ8rLqB/view - Video link to how to use this program.
 
 
 ## Features
